@@ -199,7 +199,14 @@ Although both models have similar accuracy, **Random Forest was selected** based
 Both Random Forest and XGBoost achieved similar accuracy (~78.9%).
 However, Random Forest produced fewer false positives, making it more reliable for duplicate detection tasks.
 
+
 👉 Therefore, Random Forest was chosen as the final model for deployment.
+
+## 🈸 Application Layout : 
+
+<img width="1537" height="907" alt="image" src="https://github.com/user-attachments/assets/87c8ab55-641e-4b5d-b676-f8fd7b9ba516" />
+
+
 
 
 
